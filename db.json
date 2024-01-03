@@ -250,7 +250,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gift.jpeg"],
       "categoria": "Gift Card",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": true
     }
     
