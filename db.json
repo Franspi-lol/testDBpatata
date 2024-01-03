@@ -248,7 +248,7 @@
       "descripcion": "Las gift cards tienen una validez de un mes para ser utilizadas. El monto puede canjearse por cualquier producto del Stock disponible.",
       "precio": 3000,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gift.jpeg"],
-      "categoria": "Gift Card",
+      "categoria": "Merchandising",
       "cantidad": 1,
       "estado": true,
       "destacado": true
