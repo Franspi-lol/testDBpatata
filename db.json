@@ -124,7 +124,7 @@
     {
       "id": 12,
       "nombre": "Mate Uchi 'Fungi-Bee'",
-      "descripcion": "Mate hecho mano, con la incrustación de mini esculturas cerámicas, perfecto para quienes amarían tener un mate original",
+      "descripcion": "Mate hecho mano, con la incrustación de mini esculturas cerámicas, perfecto para quienes amarían tener un mate original. Incluye bombilla",
       "precio": 5700,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi2.jpeg"],
       "categoria": "Mates",
@@ -252,7 +252,130 @@
       "cantidad": 1,
       "estado": true,
       "destacado": true
+    },
+    {
+      "id": 24,
+      "nombre": "Hornito 'Rainbow'",
+      "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
+      "precio": 7300,
+      "imagen": [],
+      "categoria": "Hornitos",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 25,
+      "nombre": "Hornito 'Manifestar'",
+      "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
+      "precio": 7300,
+      "imagen": [],
+      "categoria": "Hornitos",
+      "cantidad": 1,
+      "estado": false,
+      "destacado": false
+    },
+    {
+      "id": 26,
+      "nombre": "Portasahumerios 'Rainbow'",
+      "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
+      "precio": 1800,
+      "imagen": [],
+      "categoria": "Portasahumerios",
+      "cantidad": 2,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 27,
+      "nombre": "Tazón 'Manifest it Baby'",
+      "descripcion": "Super Tazón con una capacidad de 450ml, por lo que puede usarse como tazón o cuenco por su gran tamaño. Tiene pequeñas fallas en el esmalte las cuales no afectan ni a su uso ni a su estetica",
+      "precio": 8500,
+      "imagen": [],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 28,
+      "nombre": "Promocion 'Portasahumerios y Hornito'",
+      "descripcion": "Promocion de Portasahumerios y Hornito de cerámica, perfecto para quemar sahumerios,velitas o inciensos, o simplemente para decorar tu hogar. Dale un aroma único a tu hogar",
+      "precio": 8500,
+      "imagen": [],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 29,
+      "nombre": "Mate Bacharala 'Sunny'",
+      "descripcion": "Mate Bacharala pintado a mano, con un diseño de soles, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
+      "precio": 5500,
+      "imagen": [],
+      "categoria": "Mates",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 30,
+      "nombre": "Mate Bacharala 'Cloudy'",
+      "descripcion": "Mate Bacharala pintado a mano, con un diseño de nubes, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
+      "precio": 5500,
+      "imagen": [],
+      "categoria": "Mates",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 31,
+      "nombre": "Portasahumerios 'Cherry'",
+      "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
+      "precio": 1800,
+      "imagen": [],
+      "categoria": "Portasahumerios",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 32,
+      "nombre": "Portasahumerios 'Coquette'",
+      "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
+      "precio": 1800,
+      "imagen": [],
+      "categoria": "Portasahumerios",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 33,
+      "nombre": "Cenicero 'Retro'",
+      "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
+      "precio": 4500,
+      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"],
+      "categoria": "Ceniceros",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 34,
+      "nombre": "Cenicero 'Fuck Off'",
+      "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
+      "precio": 4500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroFuck.jpg"],
+      "categoria":"Ceniceros",,
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
     }
+    
+
     
     
   ]
