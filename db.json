@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Pedidos personalizados",
-      "descripcion": "¿Buscas la pieza perfecta que complemente tu hogar y refleje tu estilo único? ¡No busques más! Una pieza diseñada exclusivamente para vos. Del 1 al 7 de cada mes tomo pedidos, por fuera de esa fecha los pedidos no se recepcionan. Me contas tu idea, y con el 50% de la seña empezó a trabajar. Los pedidos personalizados tienen un tiempo de entrega estimado de 21 días. La agenda abre del 1 a 3 de cada mes",
+      "descripcion": "¿Buscas la pieza perfecta que complemente tu hogar y refleje tu estilo único? ¡No busques más! Una pieza diseñada exclusivamente para vos. Del 1 al 3 de cada mes tomo pedidos, por fuera de esa fecha los pedidos no se recepcionan. Me contas tu idea, y con el 50% de la seña empezó a trabajar. Los pedidos personalizados tienen un tiempo de entrega estimado de 21 días.",
       "precio": 0,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso7.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso2.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso3.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso4.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso5.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso6.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso1.jpeg"],
       "categoria": "Personalizado",
