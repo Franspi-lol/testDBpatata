@@ -84,7 +84,7 @@
       "precio": 5500,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg"],
       "categoria": "Tazas",
-      "cantidad": 2,
+      "cantidad": 0,
       "estado": true,
       "destacado": false
     },
@@ -150,8 +150,8 @@
       "precio": 5000,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Hollin.jpeg"],
       "categoria": "Bowls",
-      "cantidad": 1,
-      "estado": true,
+      "cantidad": 0,
+      "estado": false,
       "destacado": false
     },
     {
@@ -271,7 +271,7 @@
       "precio": 7000,
       "imagen": [],
       "categoria": "Hornitos",
-      "cantidad": 1,
+      "cantidad": 0,
       "estado": false,
       "destacado": false
     },
@@ -337,8 +337,8 @@
       "precio": 1800,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0044.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahucherry.jpg"],
       "categoria": "Portasahumerios",
-      "cantidad": 1,
-      "estado": true,
+      "cantidad": 0,
+      "estado": false,
       "destacado": false
     },
     {
@@ -381,8 +381,8 @@
       "precio": 5700,
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito2.jpeg"],
       "categoria":"Mates",
-      "cantidad":1,
-      "estado":true,
+      "cantidad":0,
+      "estado":false,
       "destacado":false
     }
     
