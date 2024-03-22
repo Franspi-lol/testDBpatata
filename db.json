@@ -19,7 +19,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDays.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -30,7 +30,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Cherry.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -41,7 +41,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie2.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -52,7 +52,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays2.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -63,7 +63,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDaysWinnie.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -74,7 +74,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow2.jpeg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -85,7 +85,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg"],
       "categoria": "Tazas",
       "cantidad": 0,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -96,7 +96,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro%20(2).jpeg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -107,7 +107,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateUchi.jpeg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -118,7 +118,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateGogh.jpeg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -129,7 +129,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi2.jpeg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -140,7 +140,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner2.jpeg"],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -195,7 +195,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha2.jpeg"],
       "categoria": "Frasquitos",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -206,7 +206,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito2.jpeg"],
       "categoria": "Frasquitos",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -217,7 +217,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matestick.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitostick.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/diva.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/estudio.jpeg"],
       "categoria": "Merchandising",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -228,7 +228,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matellav.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitollav.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/divallav.jpeg"],
       "categoria": "Merchandising",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -239,7 +239,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -261,7 +261,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornorainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitocloudy4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitorainbow2.jpg"],
       "categoria": "Hornitos",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -283,7 +283,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahumeriorainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow2.jpg"],
       "categoria": "Portasahumerios",
       "cantidad": 2,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -294,7 +294,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest5.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest3.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonManifest.jpg"],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -305,7 +305,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo(rainbow).jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo2.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0041.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0043.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau2.jpg"],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -316,7 +316,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matesunny.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateSunny3.jpg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -327,7 +327,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateCloudy.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy3.jpg"],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -349,7 +349,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette2.jpg"],
       "categoria": "Portasahumerios",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -360,7 +360,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -384,11 +384,45 @@
       "cantidad":0,
       "estado":false,
       "destacado":false
+    },
+    {
+      "id": 36,
+      "nombre": "Taza 'Pato la vida'",
+      "descripcion": "Taza en forma de pato, esencial para tus desayunos.",
+      "precio": 5000,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato2.jpeg"],
+      "categoria":"Tazas",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
+    },
+    {
+      "id": 37,
+      "nombre": "Mini bowl 'Avatar'",
+      "descripcion": "Mini bowl pintado a mano, con el diseño Appa, perfecto para los amantes de Avatar.",
+      "precio": 4500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar2.jpeg"],
+      "categoria":"Bowls",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
+
+    },
+    {
+      "id": 38,
+      "nombre": "Alhajero 'Bunny'",
+      "descripcion": "Alhajero pintado a mano, con el diseño de un conejo, perfecto para guardar tus alhajas.",
+      "precio": 2500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo2.jpeg"],
+      "categoria":"Bowls",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
     }
-    
     
 
     
     
   ]
 }
+
