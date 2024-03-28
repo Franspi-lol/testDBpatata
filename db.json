@@ -184,7 +184,7 @@
       "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/vaquita.jpeg"],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
