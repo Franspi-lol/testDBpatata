@@ -268,11 +268,11 @@
       "id": 25,
       "nombre": "Hornito 'Manifestar'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
-      "precio": 7000,
-      "imagen": [],
+      "precio": 7500,
+      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar3.jpeg"],
       "categoria": "Hornitos",
-      "cantidad": 0,
-      "estado": false,
+      "cantidad": 1,
+      "estado": true,
       "destacado": false
     },
     {
@@ -389,7 +389,7 @@
       "id": 36,
       "nombre": "Taza 'Pato la vida'",
       "descripcion": "Taza en forma de pato, esencial para tus desayunos.",
-      "precio": 5000,
+      "precio": 4500,
       "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato2.jpeg"],
       "categoria":"Tazas",
       "cantidad":1,
@@ -420,9 +420,9 @@
       "destacado":false
     }
     
+    
 
     
     
   ]
 }
-
